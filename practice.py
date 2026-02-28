@@ -1,0 +1,10 @@
+a = int(input("write value for a :"))
+b = int(input("write another, value for b :"))
+sum = (a + b)
+print("sum is => ",sum)
+side = float(input(" Enter value for side => "))
+area = side * side
+print("area => ",area)
+g = int (input("Enter value for g => "))
+s = int (input("Enter value for s => "))
+print("g>=s => ",g>=s)
